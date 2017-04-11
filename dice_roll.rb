@@ -5,3 +5,8 @@
 def roll
   return rand(1..6)
 end
+
+# def roll
+#   numbers = [1, 2, 3, 4, 5, 6]
+#   return numbers[rand(0..5)]
+# end
